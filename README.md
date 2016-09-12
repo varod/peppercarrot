@@ -22,6 +22,8 @@ You found the main repository of tools,resources and script to build the open-so
 **4.** On left the **submenu** focused on episode 10 Summer special. On right, Nemo file manager opening the target folder direclty ( with RabbitCVS for GIT preview over the folder with emblems ). On right (under), the **FTP update**. Files changed or rendered are pushed to the main server this way.
 ![alt tag](http://www.peppercarrot.com/data/images/lab/2015-10-15-peppercarrot-script/2015-10-15_peppercarrot-script_screenshot_003_net.jpg)
 
+
+
 ## Dependencies/Libraries
 
 Only free/libre and open-sources tools :

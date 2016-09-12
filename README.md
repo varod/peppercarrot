@@ -42,6 +42,8 @@ Only free/libre and open-sources tools :
 * **Python3** 
 * **python3-unidecode**
 
+
+
 Note: I'm using **Ubuntu 16.04** 64bit with Unity desktop (default). The package versions here are installed with the package manager.
 
 ## Install

@@ -13,6 +13,7 @@ You found the main repository of tools,resources and script to build the open-so
 **1.** The **launcher icon** within the main menu ( Linux Mint 17.2 Menu )
 ![alt tag](http://www.peppercarrot.com/data/images/lab/2015-10-15-peppercarrot-script/2015-10-15_peppercarrot-script_screenshot_000_net.jpg)
 
+
 **2.** The graphical **main menu** interface (left) calling for action "Edit all README.md" from all episodes, executed by Geany text editor(right)
 ![alt tag](http://www.peppercarrot.com/data/images/lab/2015-10-15-peppercarrot-script/2015-10-15_peppercarrot-script_screenshot_001_net.jpg)
 
